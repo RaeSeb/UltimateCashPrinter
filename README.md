@@ -4,7 +4,7 @@ UltimateCashPrinter is a professional Minecraft plugin that introduces passive i
 
 Developed by **NovaWeld Studio**, this plugin is fully customizable and integrates with all Vault-based economy systems.
 
-🌐 **Live Demo Page**: [Visit Site](https://raeseb.github.io/ultimatecashprinter/) ← Replace with your GitHub Pages link
+🌐 **Live Demo Page**: [Visit Site]([https://raeseb.github.io/ultimatecashprinter/](https://github.com/RaeSeb/UltimateCashPrinter)) ← Replace with your GitHub Pages link
 
 ---
 
