@@ -1,48 +1,64 @@
-# 💵 UltimateCashPrinter
+---
 
-UltimateCashPrinter is a professional Minecraft plugin that introduces passive income mechanics to your server. Players can place printers, feed them items, and earn money over time.
-
-Developed by **NovaWeld Studio**, this plugin is fully customizable and integrates with all Vault-based economy systems.
-
-🌐 **Live Demo Page**: [Visit Site](https://github.com/RaeSeb/UltimateCashPrinter) ← Replace with your GitHub Pages link
+🎰 **Ultimate CashPrinter** – Passive Income. Reinvented.
+Developed by **Novaweld Studio**
 
 ---
 
-## 🔥 Features
-
-- 🖨️ Unlimited custom printer types
-- ⬆️ Multi-level upgrade system
-- 📥 Configurable item-based recipes
-- 💰 Vault economy support (EssentialsX, iConomy, Gringotts)
-- 🖥️ Custom GUI interface with interactive buttons
-- 🪧 In-game holograms (owner, balance, $/s)
-- ✨ Toggleable sounds and particles
-- 🌍 Multilingual support (`en.yml`, `it.yml`)
-- 💾 Persistent storage across server restarts
+💡 **What is it?**
+Ultimate CashPrinter is a professional-grade Minecraft plugin that introduces a fully customizable **passive income system**. Players can place money printers that generate currency over time, upgrade them, feed them with ingredients, and manage everything through live holograms and intuitive GUIs.
 
 ---
 
-## 🛠️ Installation
+🔧 **Main Features**
 
-1. Install [Vault](https://www.spigotmc.org/resources/vault.34315/) and an economy plugin
-2. Drop `Ultimate_CashPrinter.jar` into `/plugins`
-3. Restart your server or type `/reload`
-4. Use `/cashprinter basic` and start printing!
+🖨️ **Customizable Printers**
+Each printer model can be configured with unique textures, materials, recipes, intervals, and multiple upgrade levels.
+
+📈 **Upgrade System**
+Printers can be upgraded across levels to increase printing speed and capacity, with live cost display and GUI menus.
+
+👁️ **3D Live Hologram**
+Displays name, level, storage progress bar, capacity, and generation rate above each printer in real time.
+
+💸 **Auto-Withdraw**
+Automatically deposits stored money into the player’s account once a configurable storage threshold is reached.
+
+📦 **Hopper Support**
+Printers can pull required ingredients directly from connected hoppers for automated production.
+
+🎨 **Texture Support**
+Supports custom Base64 skull textures or standard Minecraft blocks for visual variety.
+
+🌍 **Multilanguage**
+Fully translated into English, Italian, French, German, Spanish, Russian, and Chinese.
 
 ---
 
-## 🧪 Commands
+💻 **Commands Overview**
 
-```bash
-/cashprinter <type>    # Gives a printer
-/cashprinter list       # Lists available models
-/cashprinter reload     # Reloads config and data
-```
-Permission: `ultimatecashprinter.admin`
+* `/cashprinter give <type>` – Give yourself a specific printer
+* `/cashprinter list` – View all your active printers
+* `/cashprinter reload` – Reload configuration and language files
+* `/cashprinter help` – Show all available commands
 
 ---
 
-## 📄 License
-This plugin is licensed for personal or server use only. Redistribution is prohibited.
+✅ **Compatibility**
 
-© 2025 NovaWeld Studio. All rights reserved.
+* ✔️ Minecraft 1.20+ (Paper / Purpur / Spigot)
+* ✔️ Java 17+
+* ✔️ Requires Vault
+
+---
+
+📘 **License**
+This plugin is property of Novaweld Studio.
+Redistribution, resale, re-uploading, or sharing of this software or any of its components (including configuration files, assets, and code) is strictly prohibited without explicit written permission.
+
+By using this plugin, you agree to these terms. Violation may result in legal action.
+
+© 2024–2025 **Novaweld Studio** – All rights reserved.
+Visit us: 🌐 [www.novaweld-studio.com](https://www.novaweld-studio.com)
+
+---
